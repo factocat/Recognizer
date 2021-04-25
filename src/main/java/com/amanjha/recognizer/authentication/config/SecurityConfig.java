@@ -21,7 +21,7 @@ public class SecurityConfig {
                 .and().build();
     }
 
-    @Bean
+  /*  @Bean
     public MapReactiveUserDetailsService userDetailsService() {
         UserDetails user = User
                 .withUsername("user")
@@ -29,7 +29,7 @@ public class SecurityConfig {
                 .roles(Roles.USER)
                 .build();
         return new MapReactiveUserDetailsService(user);
-    }
+    }*/
 
     @Bean
     public PasswordEncoder configurePasswordEncoder(@Value("${security.encryption.secret}") String secret) {
