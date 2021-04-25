@@ -1,6 +1,6 @@
 # Recognizer
 
-### The Generic Application that can be used as a microservice to provide authentication mechanism
+### The Generic Application that can be used as a microservice to provide authentication mechanism to your application
 <hr>
 
 The Objective of this application is to act as an authentication provider for any starter projects. 
