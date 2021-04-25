@@ -11,8 +11,7 @@ This should function as a standalone microservice and should be capable to provi
 
 The clients are expected to use the [JWT](https://jwt.io/) based verification of the authentication based on a shared secret.
 
-This websocket works on the following stack :
-  * Java for Backend
+This webserver works on the following stack :
   * Netty Server
   * MongoDB
-  * Spring Boot with Spring Security
+  * Java using Spring Boot with Spring Security
