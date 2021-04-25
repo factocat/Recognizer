@@ -1,4 +1,4 @@
-# Recognizer [![Maven Build](https://github.com/factocat/Recognizer/actions/workflows/maven.yml/badge.svg)](https://github.com/factocat/Recognizer/actions/workflows/maven.yml)
+# Recognizer [![Maven Build](https://github.com/factocat/Recognizer/actions/workflows/maven.yml/badge.svg)](https://github.com/factocat/Recognizer/actions/workflows/maven.yml) [![Code Quality](https://www.code-inspector.com/project/21911/score/svg)](https://frontend.code-inspector.com/project/21911/dashboard) [![Code Grade](https://www.code-inspector.com/project/21911/status/svg)](https://frontend.code-inspector.com/project/21911/dashboard) 
 
 ### The Generic Application that can be used as a microservice to provide authentication mechanism to your application
 <hr>
