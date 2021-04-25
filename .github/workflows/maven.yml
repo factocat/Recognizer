@@ -23,10 +23,3 @@ jobs:
         distribution: 'adopt'
     - name: Build with Maven
       run: mvn -B package -ntp --file pom.xml
-    - name: Code Inspector GitHub action
-      uses: codeinspectorio/github-action@v1
-      with:
-        repo_token: ${GITHUB_TOKEN}
-        code_inspector_access_key: ${{secrets.CODE_INSPECTOR_ACCESS_KEY}}
-        code_inspector_secret_key: ${{secrets.CODE_INSPECTOR_SECRET}}
-    
