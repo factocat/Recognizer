@@ -1,4 +1,4 @@
-# Recognizer
+# Recognizer [![Maven Build](https://github.com/factocat/Recognizer/actions/workflows/maven.yml/badge.svg)](https://github.com/factocat/Recognizer/actions/workflows/maven.yml)
 
 ### The Generic Application that can be used as a microservice to provide authentication mechanism to your application
 <hr>
